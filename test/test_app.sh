@@ -1,2 +1,2 @@
 ### test_app.sh - 2016 - Louison Diogo ###
-echo "Version : 1.2.1"
+echo "Version : 1.2.0-b"
